@@ -1,0 +1,9 @@
+SYTEM SMART ELECTRIC METER UNTUK PENGGUNAAN LISTRIK PRABAYAR DI APARTEMEN ATAU KOS, Dimas Fariz Nabalah, E32170064, 
+Tahun 2019, 33 hlm., Prodi Teknik Komputer, Jurusan Teknologi Informasi, Politeknik Negeri Jember, Victor Phoa,S.Si, M.Cs (Pembimbing I).
+
+Sytem Smart Electric Meter Untuk Penggunaan Listrik Prabayar Di Apartemen Atau Kos adalah sebuah prototype aplikasi penambah kwh yang 
+menggunakan mikrokontroller Arduino Uno dan HC-05 sebagai sensor utamanya untuk memantau dan membaca Kwh yang masuk dan keluar. Sistem ini 
+menggunakan Bluetooth sebagai media peniriman. Sistem ini dapat memonitoring kwh yang digunakan pada setiap kamar. Pada aplikasi android juga terdapat fitur 
+untuk mengatur menambahkan. Batasan untuk penggunaan aplikasi hanya dapat digunakan oleh pemilik yang mengetahui nama pengguna dan kata sandi aplikasi 
+tersebut. Sistem akan menghitung ketika sudah tersambung dengan perangkat. Terdapat juga fitur monitor pemantauan data ketika perangkat tersambung. Dengan 
+adanya sistem ini, diharapkan dapat membantu pengguna dalam mengontrol penggunaan listrik pada setiap kamar.
